@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-2022",
+  "version": "1.0.0",
+  "description": "An updated portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValeriaBE/Portfolio-2022.git"
+  },
+  "author": "Valeria Berrocal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValeriaBE/Portfolio-2022/issues"
+  },
+  "homepage": "https://github.com/ValeriaBE/Portfolio-2022#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
